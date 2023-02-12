@@ -1,6 +1,20 @@
 # MyWeatherApp
 
-This template should help get you started developing with Vue 3 in Vite.
+My first simple weather app. 
+
+I use javascript and Vue.js Vite in it.
+
+I used the openweathermap api to display weather data. 
+
+The application is still written in one view,
+
+but I plan to gradually divide it into individual components
+and improve them.
+
+
+
+<img width="300" alt="weather" src="https://user-images.githubusercontent.com/121693001/217089016-c98448c7-0108-4cb9-babc-1f336195a087.png">
+
 
 ## Recommended IDE Setup
 
@@ -22,7 +36,6 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
 
 ```sh
 npm run build
